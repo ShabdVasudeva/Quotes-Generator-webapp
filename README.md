@@ -35,6 +35,11 @@
 
 ---
 
+<h2>🔗 Link</h2>
+
+- https://apwquotes.netlify.app/
+
+---
 <h2> 🖥️ Installation & Setup </h2>
 
 ```sh
