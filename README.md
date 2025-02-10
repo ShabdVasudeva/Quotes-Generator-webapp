@@ -38,7 +38,7 @@
 <h2> 🖥️ Installation & Setup </h2>
 
 ```sh
-git clone https://github.com/yourusername/your-repo-name.git
+git clone https://github.com/shabdvasudeva/Quotes-Generator-webapp.git
 cd your-repo-name
 npm install
 npm start
