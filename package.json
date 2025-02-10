@@ -2,7 +2,7 @@
   "name": "quotes",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://shabdvasudeva.github.io/Quotes-Generator-webapp/src",
+  "homepage": "https://shabdvasudeva.github.io/",
   "dependencies": {
     "cra-template": "1.2.0",
     "react": "^19.0.0",
