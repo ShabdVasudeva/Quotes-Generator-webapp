@@ -9,7 +9,7 @@
 </p>
 
 <p align="center">
-  A simple and elegant <b>Random Quotes Generator</b> built with **React.js** and hosted on <b>Netlify</b>.
+  A simple and elegant <b>Random Quotes Generator</b> built with <b>React.js</b> and hosted on <b>Netlify</b>.
 </p>
 
 ---
